@@ -17,7 +17,7 @@ java Javaファイル名
 
 Sample.java 
 ```Java
-public slass Sample{
+public class Sample{
     public static void main(String[] args){
         System.out.println("Hello Java!");
     }
